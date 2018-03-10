@@ -1,0 +1,100 @@
+ResourceID,Information Carrier,address1
+b8421ddb-cbf1-47e4-9edf-f8f72ac2b020,,1542-1542 HAIGHT ST
+db54c376-3e6a-4346-b9ad-507ec04076bf,,1408-1418 HAIGHT ST
+44114e57-dbab-4b98-b96e-79b7969c4071,"""[{u'status': u'uploaded', u'index': 0, u'name': u'1518477636679-1863564526.jpg', u'url': u'/files/uploadedfiles/1518477636679-1863564526.jpg', u'lastModified': 1518477688452, u'content': u'blob:http://54.209.223.11/6f89e0d4-8590-4920-92f0-3809036f524b', u'file_id': u'819d1e83-104b-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 988429}]""",1348-1350 HAIGHT ST
+6a4937e9-b896-432b-96c9-f1bbb307f6de,,1462-1466 HAIGHT ST
+687b5c45-0056-4ab7-bf74-2136e2d03958,,1330-1334 HAIGHT ST
+bc2a36ce-79b3-432e-b48c-9f51debb10e2,,1535-1541 HAIGHT ST
+3475107c-9959-4bc6-a87f-b3b17d100c59,,1728-1748 HAIGHT ST
+084b3ce5-ccbc-49d5-bb72-f6b11d328452,,1807-1807 HAIGHT ST
+9b024774-8920-4094-a405-f857ff915dc8,,600-614 ASHBURY ST
+71e9dcbe-841d-4368-9fc9-fe16dd16a4c8,,1515-1519 HAIGHT ST
+98477def-860c-494c-b24a-21bd22eeace5,,1653-1653 HAIGHT ST
+62ee25b3-b9ba-4f2f-a9b1-0127bc3c7f0b,,1589-1589 HAIGHT ST
+322723c1-e398-4458-84b1-80c5fe2dbff2,,1792-1792 HAIGHT ST
+f8c50f23-902f-41fe-9892-3f4d3e3c064c,,1300-1322 HAIGHT ST
+e11adea8-04a2-4cac-b433-3a19204a1d9f,,1878-1878 HAIGHT ST
+6c9a29a8-1a80-4094-97b7-024b4b98d1bd,,1560-1564 HAIGHT ST
+03a9f688-5a5a-46c3-8133-2b0b33b5d391,,1821-1827 HAIGHT ST
+15e43903-63dc-4a96-80a6-499d264353c4,,1420-1420 HAIGHT ST
+91fd19b7-a9e5-4501-b065-4c51d715df5b,,1659-1665 HAIGHT ST
+2749a5f1-43e5-4b03-8c81-3cf888b86d5d,,1543-1543 HAIGHT ST
+e776ba21-538a-4acc-abf8-bee65cdfeb9f,,1525-1529 HAIGHT ST
+41b1aa6c-e619-4cde-be5e-db18243e058f,,1677-1681 HAIGHT ST
+d11a1f23-97f3-4441-835e-7f5bc1bee02f,,1626-1636 HAIGHT ST
+92b91c6b-7e68-443f-95bf-635637f4a035,,1664-1668 HAIGHT ST
+2d6e7448-e13c-40f5-bc25-12477133da1f,,1764-1764 HAIGHT ST
+d95b20ab-53a5-4fd4-9923-c5c57e64eead,,1463-1467 HAIGHT ST
+e48a51db-2e28-40a5-9965-5ed9c76ba1e3,,609-609 ASHBURY ST
+772d6e2f-4316-4ff8-9e36-6515d0ed4a95,,700-730 STANYAN ST
+3fa17b7f-dea9-4f02-aab7-4c995b7b7790,,560-562 ASHBURY ST
+d8007d83-5a96-4f53-a19f-64466abedd49,,1336-1340 HAIGHT ST
+27ca0557-f406-42a2-9bf9-be9c9a65f9fd,"""[{u'status': u'uploaded', u'index': 0, u'name': u'1518483384554102516218.jpg', u'url': u'/files/uploadedfiles/1518483384554102516218.jpg', u'lastModified': 1518483420613, u'height': 1152, u'content': u'blob:http://54.209.223.11/85910efc-61f1-48bb-b18a-bb340be070e3', u'width': 2048, u'file_id': u'13c29489-1059-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 807580}, {u'status': u'uploaded', u'index': 1, u'name': u'15184834301231778765575.jpg', u'url': u'/files/uploadedfiles/15184834301231778765575.jpg', u'lastModified': 1518483444593, u'height': 1152, u'content': u'blob:http://54.209.223.11/c6ba6a46-6032-4959-8733-612db436d6c9', u'width': 2048, u'file_id': u'13c2948b-1059-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 792679}, {u'status': u'uploaded', u'index': 2, u'name': u'1518483451876-1694861453.jpg', u'url': u'/files/uploadedfiles/1518483451876-1694861453.jpg', u'lastModified': 1518483460703, u'height': 1152, u'content': u'blob:http://54.209.223.11/1cfdfdf6-1d2e-4b4a-9bfd-705646b653ae', u'width': 2048, u'file_id': u'13c2948e-1059-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 744433}, {u'status': u'uploaded', u'index': 3, u'name': u'1518483474660230543888.jpg', u'url': u'/files/uploadedfiles/1518483474660230543888.jpg', u'lastModified': 1518483488853, u'height': 1152, u'content': u'blob:http://54.209.223.11/27999706-8be9-44cd-ba7b-f54f047c371f', u'width': 2048, u'file_id': u'13c29492-1059-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 652712}, {u'status': u'uploaded', u'index': 4, u'name': u'1518483506195872351345.jpg', u'url': u'/files/uploadedfiles/1518483506195872351345.jpg', u'lastModified': 1518483519043, u'content': u'blob:http://54.209.223.11/33d71131-c0b8-45f5-b02a-6fdc98e6f756', u'file_id': u'13c29497-1059-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 747328}]""",1214-1214 MASONIC AV
+75203828-7331-439c-9c0f-daed4af43d08,,1670-1674 HAIGHT ST
+0cf20713-b768-48e1-afc0-bf1dc262423b,,1444-1454 HAIGHT ST
+56f85ada-057b-41bf-a0f8-f75f4eca20f2,,1787-1793 HAIGHT ST
+90da48af-f44c-4474-ab2c-2df8dbec523e,,1548-1552 HAIGHT ST
+dfa9d53c-ddc5-450f-887c-5230c4dfb7a6,,1324-1328 HAIGHT ST
+5b929eec-1724-41c3-9409-733d773d16f6,,1437-1445 HAIGHT ST
+fb592144-53fa-40e3-92df-b0b3190cd1d9,,1430-1434 HAIGHT ST
+c367bafe-a6d0-4e80-b1c4-97ab627a2e41,,1427-1433 HAIGHT ST
+c03981dd-3ecc-4ebd-9e26-b3a8396eb209,,1458-1460 HAIGHT ST
+1e151846-5619-4dd7-b028-badc43450cf1,,1779-1781 HAIGHT ST
+b29a77fb-5ae6-48dd-8a5e-80e75a453bf0,,580-588 COLE ST
+640a1d47-cdad-4657-930b-77f21e89fa80,,1457-1459 HAIGHT ST
+b6603f77-f6df-4b7f-87ab-55a7071e655f,,555-555 CLAYTON ST
+4588b4dd-bd3a-40f6-9f98-554674a6fbeb,,690-690 STANYAN ST
+8a76fc6e-be72-4275-9078-2efe8178ba6d,,557-0 ASHBURY ST
+4c0e7ab1-3871-440f-a028-d4647cfe916d,"""[{u'status': u'uploaded', u'index': 0, u'name': u'15184813063521643298259.jpg', u'url': u'/files/uploadedfiles/15184813063521643298259.jpg', u'lastModified': 1518481348880, u'height': 2988, u'content': u'blob:http://54.209.223.11/fe4d4eb9-59a3-4e1c-84ad-bda240f84c52', u'width': 5312, u'file_id': u'd2584817-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 1864684}, {u'status': u'uploaded', u'index': 1, u'name': u'1518481356379-1628264918.jpg', u'url': u'/files/uploadedfiles/1518481356379-1628264918.jpg', u'lastModified': 1518481378800, u'height': 2988, u'content': u'blob:http://54.209.223.11/56264d86-c1f7-4c90-8bb5-0cbb87ecf69a', u'width': 5312, u'file_id': u'd2584819-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 6053618}, {u'status': u'uploaded', u'index': 2, u'name': u'1518481396512-306636619.jpg', u'url': u'/files/uploadedfiles/1518481396512-306636619.jpg', u'lastModified': 1518481489815, u'height': 2988, u'content': u'blob:http://54.209.223.11/e9314468-6537-40fc-a23a-58c5bcabaa4e', u'width': 5312, u'file_id': u'd258481c-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 3749111}, {u'status': u'uploaded', u'index': 3, u'name': u'1518481512650-899789719.jpg', u'url': u'/files/uploadedfiles/1518481512650-899789719.jpg', u'lastModified': 1518481522535, u'height': 2988, u'content': u'blob:http://54.209.223.11/6c6cbc7d-05e3-4331-85f4-7b6baa8fa3a8', u'width': 5312, u'file_id': u'd2584820-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4898211}, {u'status': u'uploaded', u'index': 4, u'name': u'1518481532317495073628.jpg', u'url': u'/files/uploadedfiles/1518481532317495073628.jpg', u'lastModified': 1518481540665, u'height': 2988, u'content': u'blob:http://54.209.223.11/55b41580-2bd5-41ae-ad14-032555892684', u'width': 5312, u'file_id': u'd2584825-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 5849444}, {u'status': u'uploaded', u'index': 5, u'name': u'1518481558246-1816030921.jpg', u'url': u'/files/uploadedfiles/1518481558246-1816030921.jpg', u'lastModified': 1518481565515, u'height': 2988, u'content': u'blob:http://54.209.223.11/c5d5e072-9c8f-4879-84bc-cccfe3f47227', u'width': 5312, u'file_id': u'd258482b-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4750685}, {u'status': u'uploaded', u'index': 6, u'name': u'15184815707731637808120.jpg', u'url': u'/files/uploadedfiles/15184815707731637808120.jpg', u'lastModified': 1518481606865, u'height': 2988, u'content': u'blob:http://54.209.223.11/65f28b5a-048a-4eb2-8d46-f3141b6dbacd', u'width': 5312, u'file_id': u'd2584832-1054-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 1860656}]""",1378-1378 HAIGHT ST
+cdd2ed66-6572-471c-a602-ece7dc6b71d0,,1475-1477 HAIGHT ST
+c31e1f3e-4a98-4eda-b05f-3a945fc6701b,,1553-1555 HAIGHT ST
+17a1c2c0-7c6c-4483-be5f-e277e6d3a876,"""[{u'status': u'uploaded', u'index': 0, u'name': u'15184796759361158677497.jpg', u'url': u'/files/uploadedfiles/15184796759361158677497.jpg', u'lastModified': 1518479697136, u'content': u'blob:http://54.209.223.11/51317e33-afad-4833-95e5-7c510432f1e4', u'file_id': u'2e10dd81-1050-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 6188130}]""",1360-1364 HAIGHT ST
+1fee8291-8378-4cfa-890d-47fdb0951a0b,,1633-1649 HAIGHT ST
+377c4c0f-a1a4-4013-9648-9f00e1f9f2f3,,1597-1597 HAIGHT ST
+0de1d7f3-35ae-4d94-bc03-3310e7fc9775,,554-554 CLAYTON ST
+2f18b529-b817-49d2-a7ee-282fbcc41339,,1801-1801 HAIGHT ST
+6b72ee92-93af-4385-a153-53b44be8db8b,,1524-1528 HAIGHT ST
+d31f0660-31b9-4dc9-9470-9ec8524e534a,,1700-1700 HAIGHT ST
+384d1ccf-cc07-4f91-ba90-24fb7e324b8b,"""[{u'status': u'uploaded', u'index': 0, u'name': u'15184820584841014687259.jpg', u'url': u'/files/uploadedfiles/15184820584841014687259.jpg', u'lastModified': 1518482069609, u'height': 2988, u'content': u'blob:http://54.209.223.11/77a55dbe-ffdd-44a9-a7e0-ed5e5d34c359', u'width': 5312, u'file_id': u'dc22f471-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 2935952}, {u'status': u'uploaded', u'index': 1, u'name': u'1518482082410579454884.jpg', u'url': u'/files/uploadedfiles/1518482082410579454884.jpg', u'lastModified': 1518482095539, u'height': 2988, u'content': u'blob:http://54.209.223.11/baa21dd0-630a-4bd6-824e-8fbf00bc58cf', u'width': 5312, u'file_id': u'dc22f473-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4616650}, {u'status': u'uploaded', u'index': 2, u'name': u'15184821069681694123859.jpg', u'url': u'/files/uploadedfiles/15184821069681694123859.jpg', u'lastModified': 1518482125079, u'height': 2988, u'content': u'blob:http://54.209.223.11/a7c81015-3c72-4e85-b1df-eb26a15937de', u'width': 5312, u'file_id': u'dc22f476-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4803817}, {u'status': u'uploaded', u'index': 3, u'name': u'1518482131291663357760.jpg', u'url': u'/files/uploadedfiles/1518482131291663357760.jpg', u'lastModified': 1518482137749, u'height': 2988, u'content': u'blob:http://54.209.223.11/77f8e763-89c6-4059-b0f9-6cd3924cc016', u'width': 5312, u'file_id': u'dc22f47a-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 1979564}, {u'status': u'uploaded', u'index': 4, u'name': u'1518482153341-597962302.jpg', u'url': u'/files/uploadedfiles/1518482153341-597962302.jpg', u'lastModified': 1518482173019, u'height': 2988, u'content': u'blob:http://54.209.223.11/2e875bf1-8b33-40d2-8a07-0ea2ea41a10f', u'width': 5312, u'file_id': u'dc22f47f-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4520493}, {u'status': u'uploaded', u'index': 5, u'name': u'15184821889041258492427.jpg', u'url': u'/files/uploadedfiles/15184821889041258492427.jpg', u'lastModified': 1518482197219, u'height': 2988, u'content': u'blob:http://54.209.223.11/8c47e358-a26a-4009-8f9b-f3b61983c2be', u'width': 5312, u'file_id': u'dc22f485-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 6842571}, {u'status': u'uploaded', u'index': 6, u'name': u'1518482202065-1742142349.jpg', u'url': u'/files/uploadedfiles/1518482202065-1742142349.jpg', u'lastModified': 1518482233489, u'height': 2988, u'content': u'blob:http://54.209.223.11/4d0f8979-db82-4438-a441-83f954a02007', u'width': 5312, u'file_id': u'dc22f48c-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4325434}, {u'status': u'uploaded', u'index': 7, u'name': u'1518482237186-974289115.jpg', u'url': u'/files/uploadedfiles/1518482237186-974289115.jpg', u'lastModified': 1518482245209, u'height': 2988, u'content': u'blob:http://54.209.223.11/3213c28b-6613-46fc-a2bd-e7568ae5d49e', u'width': 5312, u'file_id': u'dc22f494-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 7032229}, {u'status': u'uploaded', u'index': 8, u'name': u'1518482249477-1883876235.jpg', u'url': u'/files/uploadedfiles/1518482249477-1883876235.jpg', u'lastModified': 1518482257529, u'content': u'blob:http://54.209.223.11/f2f3757f-bb55-4ae4-9b5d-4819db00bd3b', u'file_id': u'dc22f49d-1056-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 2211978}]""",1390-1392 HAIGHT ST
+6b376fb3-d3d3-4874-b3f0-7950846f60ae,,1795-1797 HAIGHT ST
+a43cbba9-3fad-45af-b036-3f38e5d65578,,1778-1784 HAIGHT ST
+3b78d2b3-082a-47c7-94bb-62e8fbbc2370,,622-624 SHRADER ST
+38ee4196-fe74-41ae-8dd2-03a6bb706995,"""[{u'status': u'uploaded', u'index': 0, u'name': u'1518480851311-1215938983.jpg', u'url': u'/files/uploadedfiles/1518480851311-1215938983.jpg', u'lastModified': 1518480867620, u'content': u'blob:http://54.209.223.11/ec0aa88c-54fd-4304-82a8-920ec97c13f6', u'file_id': u'eac934a3-1052-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 5654889}]""",1372-1376 HAIGHT ST
+bd6f9729-398d-49ac-8bbc-15b3de37519a,,95-97 CENTRAL AV
+be49f534-f243-47c2-98fd-64384a46eb87,"""[{u'status': u'uploaded', u'index': 0, u'name': u'1518480249265-1565104542.jpg', u'url': u'/files/uploadedfiles/1518480249265-1565104542.jpg', u'lastModified': 1518480284466, u'height': 2988, u'content': u'blob:http://54.209.223.11/76eaa048-fff1-4780-9266-a317902d6666', u'width': 5312, u'file_id': u'9c7fc60f-1051-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 5808806}, {u'status': u'uploaded', u'index': 1, u'name': u'1518480298130-1397564876.jpg', u'url': u'/files/uploadedfiles/1518480298130-1397564876.jpg', u'lastModified': 1518480305026, u'content': u'blob:http://54.209.223.11/ad959eff-df37-47fd-9d17-eeb5d7a1ad4c', u'file_id': u'9c7fc611-1051-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 5325129}]""",1366-1366 HAIGHT ST
+adc0051d-43fe-48bb-a38b-f1e5499c9899,,1835-1855 HAIGHT ST
+bd81fcc2-b4f3-440b-abef-f227aec82d52,,610-610 COLE ST
+b3dabdbe-4c55-4556-8190-efdc67b83e08,,1629-1629 HAIGHT ST
+37b7d568-054a-4ca8-9131-4dc5011298b9,,1660-1660 HAIGHT ST
+9cdeffef-541d-41c9-93a0-0dd7cc991198,,558-564 CLAYTON ST
+dc08dff4-b8c5-46ce-b00a-0d1926e77a9e,,1391-1393 HAIGHT ST
+3bc8ca8a-0247-44a2-9221-06295e2066cd,,1556-1556 HAIGHT ST
+bc44d340-83ae-417c-b5f6-0c6c5dca91f6,,1566-1576 HAIGHT ST
+54bb0d4c-c112-4590-b168-3eb8d40075e5,,1840-1840 HAIGHT ST
+8227afb6-cd2a-4276-b3bf-9ac8a4321700,,1415-1415 HAIGHT ST
+d70e8d57-99e8-4b82-8d57-a3e67fc9d3f9,,1644-1644 HAIGHT ST
+e6a826a6-9c1f-4ec2-9115-b91fe8e276ba,,1667-1673 HAIGHT ST
+d5cb97a0-cc7e-4cab-806e-c359ec13113f,,670-672 STANYAN ST
+50444d57-02eb-4cb1-8ef9-f1c7409230da,,575-575 COLE ST
+eb5d0371-4e1d-4e17-b57e-77aa72b0b774,,1530-1538 HAIGHT ST
+dc1bbb2a-72a7-49fc-8be7-4bfc76e2eb9b,,1342-1346 HAIGHT ST
+23201335-5c1e-478f-9fb6-cbfbb4a79818,,1800-1816 HAIGHT ST
+f14493f7-0f95-4a1f-ab7b-6ec287da638d,,1638-1640 HAIGHT ST
+5c271e1c-ce6d-449e-a5e4-dddf30678111,,636-636 SHRADER ST
+3a871206-8c15-4b96-9c0f-e48abb67cc1b,,1786-1790 HAIGHT ST
+77990df7-8a27-45ea-9270-33ea027c23c8,,1567-1569 HAIGHT ST
+e11fb4f1-a3ea-4fe5-a833-03938ee4ddd0,,1416-1428 HAIGHT ST
+6ae90362-9fb5-41a1-aa67-3a6fa3947e16,,1702-1702 HAIGHT ST
+acdf73af-b4ed-487a-81ad-69aa00de0146,,609-615 COLE ST
+3b09b909-1fb6-4cd3-9ff2-9d1d91124cfa,,1768-1770 HAIGHT ST
+f12511c7-bef4-4163-8c0a-b7126d68a674,,1773-1777 HAIGHT ST
+bd2c71c5-d784-4ddb-b4a2-1743e8e9b2c9,,1682-1686 HAIGHT ST
+a611facc-df44-44fd-9ca4-73d54030f0e3,,601-603 CLAYTON ST
+bd8a031f-13f7-4151-8252-099e99bd4e90,"""[{u'status': u'uploaded', u'index': 0, u'name': u'1518483355414-1062038556.jpg', u'url': u'/files/uploadedfiles/1518483355414-1062038556.jpg', u'lastModified': 1518483361695, u'content': u'blob:http://54.209.223.11/a2113afe-a860-4ac7-86d2-07ee137a5972', u'file_id': u'b6fecea2-1058-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4937734}]""",1206-1210 MASONIC AV
+6417590c-ef20-49f3-8a62-0e6edfda63f0,,1573-1573 HAIGHT ST
+fd4d3008-2bfc-423a-a5ab-b521338d2daa,,1367-1371 HAIGHT ST
+c65d67f0-028b-47b3-a9d1-d3c7f598a436,"""[{u'status': u'uploaded', u'index': 0, u'name': u'1518479215872-255760561.jpg', u'url': u'/files/uploadedfiles/1518479215872-255760561.jpg', u'lastModified': 1518479232183, u'height': 2988, u'content': u'blob:http://54.209.223.11/6b439f49-cbe8-46d6-8352-db8332c46bfd', u'width': 5312, u'file_id': u'60c85791-104f-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 5411780}, {u'status': u'uploaded', u'index': 1, u'name': u'1518479241647-1532102331.jpg', u'url': u'/files/uploadedfiles/1518479241647-1532102331.jpg', u'lastModified': 1518479249913, u'height': 2988, u'content': u'blob:http://54.209.223.11/fdd80eb9-ed69-4b5a-beec-46ba01c13379', u'width': 5312, u'file_id': u'60c85793-104f-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4656842}, {u'status': u'uploaded', u'index': 2, u'name': u'1518479254910-592305661.jpg', u'url': u'/files/uploadedfiles/1518479254910-592305661.jpg', u'lastModified': 1518479272873, u'height': 2988, u'content': u'blob:http://54.209.223.11/671407e1-f34c-4890-b3b3-d5a49375d44e', u'width': 5312, u'file_id': u'60c85796-104f-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 4453518}, {u'status': u'uploaded', u'index': 3, u'name': u'1518479281869-739970411.jpg', u'url': u'/files/uploadedfiles/1518479281869-739970411.jpg', u'lastModified': 1518479289813, u'height': 2988, u'content': u'blob:http://54.209.223.11/885a9e69-3ddc-4869-9f75-9389464092b0', u'width': 5312, u'file_id': u'60c8579a-104f-11e8-a78c-069bb3e3d676', u'accepted': True, u'type': u'image/jpeg', u'size': 1727602}]""",1354-1358 HAIGHT ST
+ed0825a0-b261-4b21-ab45-2968130a0ec9,,1449-1455 HAIGHT ST
+345dbc07-7c65-40f5-8bc1-9ebf3de0075d,,1721-1737 HAIGHT ST
+c8b4ba2d-dd06-4c36-aafa-0c5250b2e9bf,,1650-1654 HAIGHT ST
+8f8b1bd4-10a2-48d4-a90b-74e4728bb725,,1375-1375 HAIGHT ST
