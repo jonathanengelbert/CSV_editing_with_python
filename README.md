@@ -12,7 +12,7 @@ This script could easily be modified to serve other similar purposes involving C
 
 ## Last Modified
 
-The final version of this script was released 03/08/2018.
+The final version of this script was released 03/09/2018.
 Subsequent updates may follow as needed.
 
 ## Getting Started
